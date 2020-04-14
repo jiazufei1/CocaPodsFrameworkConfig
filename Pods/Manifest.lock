@@ -1,0 +1,22 @@
+PODS:
+  - Masonry (1.1.0)
+  - tempSDK (1.0.0):
+    - Masonry
+
+DEPENDENCIES:
+  - Masonry
+  - tempSDK
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Masonry
+  trunk:
+    - tempSDK
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  tempSDK: 8eada68286e173167cf69f04179360d7ee78cbd9
+
+PODFILE CHECKSUM: 00a4021d2c8eeee0b823ad06d397fcc4b5dd123f
+
+COCOAPODS: 1.9.1

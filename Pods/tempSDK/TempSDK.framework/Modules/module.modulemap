@@ -1,0 +1,6 @@
+framework module TempSDK {
+  umbrella header "TempSDK.h"
+
+  export *
+  module * { export * }
+}
